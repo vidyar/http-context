@@ -4,4 +4,4 @@ node_js:
 install:
   - npm install contextify
 script:
-  - echo "All done"
+  - echo "exit"
